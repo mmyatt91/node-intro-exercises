@@ -1,0 +1,14 @@
+{
+  "name": "31.3-node_intro_exs",
+  "version": "1.0.0",
+  "description": "'Node Intro Exercises'",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mmyatt",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
